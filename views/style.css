@@ -1,0 +1,19 @@
+body{
+margin-top: 30px;
+}
+#messageArea{
+	display: none;
+}
+
+.sidebar-nav {
+    position: fixed;
+    width: 180px;
+    left: 0;
+    bottom: 0;
+    top: 32px;
+    background: #ccc;
+    padding: 10px;
+    z-index: 10;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
